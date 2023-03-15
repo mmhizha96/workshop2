@@ -1,2 +1,4 @@
 now something sensible 
 i added a new statement
+
+error on this commit
